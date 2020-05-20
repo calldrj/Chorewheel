@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icons/plus-black-symbol.png</file>
+        <file>icons/delete.png</file>
+        <file>icons/writing.png</file>
+        <file>icons/chorewheelicon.png</file>
+        <file>icons/refresh-page-option.png</file>
+        <file>icons/view.png</file>
+        <file>icons/new-file.png</file>
+        <file>icons/save-file-option.png</file>
+        <file>icons/open-folder-with-document.png</file>
+        <file>icons/couple-of-arrows-changing-places.png</file>
+        <file>icons/sort-by-alphabet.png</file>
+        <file>icons/danger.png</file>
+        <file>icons/calendar.png</file>
+        <file>icons/tick-inside-circle.png</file>
+    </qresource>
+</RCC>
